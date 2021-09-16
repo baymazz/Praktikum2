@@ -8,5 +8,6 @@ public class Prak2C {
     beo = Beo.nextLine();
 
     System.out.println(beo);
+    Beo.close();
     }
 }
